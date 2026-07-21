@@ -1,7 +1,7 @@
 # Miguel Wainstein
 **Desenvolvedor Java Júnior** | **Jaraguá do Sul, SC - Brasil**
 
-Desenvolvedor Backend Java em transição de carreira, focado na construção de APIs RESTful escaláveis e na resolução de problemas de negócio. Estou em busca da minha primeira oportunidade como Desenvolvedor Júnior para agregar valor aos projetos através de código limpo, eficiente e testável. 
+Desenvolvedor Backend Java, focado na construção de APIs RESTful escaláveis e na resolução de problemas de negócio. Estou disponível para oportunidades de aprendizagem crescimento como Desenvolvedor para agregar valor aos projetos através de código limpo, eficiente e testável. 
 
 Tenho forte base em Orientação a Objetos, Clean Code e padrões de projeto, com experiência prática na arquitetura moderna do ecossistema Spring e conteinerização de ambientes.
 
